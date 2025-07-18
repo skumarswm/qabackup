@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
@@ -20,3 +21,7 @@ The `sfdx-project.json` file contains useful configuration information for your 
 =======
 # qabackup
 >>>>>>> 4a36d1e (Initial commit)
+=======
+# qabackup
+Use to store the code from the Backup
+>>>>>>> 3f01d3f (Update README.md)
