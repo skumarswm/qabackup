@@ -1,7 +1,5 @@
-public with sharing class Demo {
-    public Demo() {
-    System.debug('Hello hello new onew');
-    // ADDed new changes
-    System.debug('Hello hello new onew onew');
+public with sharing class demo {
+    public demo() {
+  System.debug('Heello sanjay');
     }
 }
