@@ -1,5 +1,5 @@
 public with sharing class DEMOnew {
     public DEMOnew() {
-    System.debug('HI new new sanjay ');
+    System.debug('HI new new sanjay neww');
     }
 }
